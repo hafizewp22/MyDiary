@@ -17,4 +17,4 @@
   </ol>
 
 <h2>Link of WebPage</h2>
-<a href="https://vaishnavi8055.github.io/MyDiary/" target="_blank">MyDiary</a>
+<a href="https://hafizewp22.github.io/MyDiary/" target="_blank">MyDiary</a>
